@@ -7,6 +7,8 @@ My Javascript learning repository.
 - Assignment, Arithmetic, Relational, and Logical Operators
 - String Concatenation
 - String to Number Conversion
+- Conditional Statements
+- Iterative Statements
 ## Commands Learned
 - alert(), prompt(), and confirm()
 - console.log() and typeof
