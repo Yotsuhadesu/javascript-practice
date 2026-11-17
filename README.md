@@ -9,6 +9,11 @@ My Javascript learning repository.
 - String to Number Conversion
 - Conditional Statements
 - Iterative Statements
+- Functions
+    - Arrow Functions
+    - Return and No Return Functions
+- Local vs Global Variables
+- Parameters vs Arguments vs Default Parameters
 ## Commands Learned
 - alert(), prompt(), and confirm()
 - console.log() and typeof
