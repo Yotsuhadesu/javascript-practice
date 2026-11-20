@@ -14,8 +14,10 @@ My Javascript learning repository.
     - Return and No Return Functions
 - Local vs Global Variables
 - Parameters vs Arguments vs Default Parameters
+- Arrays
 ## Commands Learned
 - alert(), prompt(), and confirm()
 - console.log() and typeof
 - innerHTML vs textContent
 - document and getElementById
+- length(), indexOf(), includes(), pop(), shift(), unshift(), join(), toString()
